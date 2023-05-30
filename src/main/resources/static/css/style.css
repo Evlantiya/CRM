@@ -11,3 +11,21 @@ a.add-contact, a.add-organization{
 	padding: 4px;
 	text-decoration: none;
 }
+
+.centered-container {
+
+}
+
+.centered{
+    width:33%;
+    margin: 0 auto;
+}
+
+ul, nav{
+    padding-left:40px;
+    text-align: left;
+}
+
+h1, h3, h4 {
+    text-align: center;
+}
